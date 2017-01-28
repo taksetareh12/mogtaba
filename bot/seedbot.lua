@@ -234,7 +234,7 @@ An advance Administration bot based on yagop/telegram-bot
     help_text_realm = [[
 Realm Commands:
 
-!creategroup [Name]
+!creategroup [mogtaba]
 Create a group
 
 !createrealm [Name]
